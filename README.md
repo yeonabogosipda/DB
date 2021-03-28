@@ -1,4 +1,4 @@
-# 사용해본DB
+# 사용해본 DB
 ## mysql
 
 ## mongo
