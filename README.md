@@ -15,3 +15,6 @@
 
 #### 코딩테스트
 - https://blog.naver.com/miracle_blossom/222286538681
+
+#### JS연습
+- https://www.youtube.com/channel/UC1wWTimSew9rYzEZRVYVlbg/playlists
