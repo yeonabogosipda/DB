@@ -18,3 +18,4 @@
 
 #### JS연습
 - https://www.youtube.com/channel/UC1wWTimSew9rYzEZRVYVlbg/playlists
+- https://www.youtube.com/c/JasonRivera19/videos   
